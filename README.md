@@ -13,5 +13,7 @@ The Samples' source -> Linkedin Learning => Deep Learning:Gettting Started
 |Popularity|Most popular|Third most popular|Second most popular|
 |Speed|Slow, low performance|Fast, high-performance|Fast, high-performance|
 |Written In|Python|Lua|C++, CUDA, Python|
+
+
 Source: https://www.simplilearn.com/keras-vs-tensorflow-vs-pytorch-article  
 
